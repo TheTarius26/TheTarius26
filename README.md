@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rhaka Novyansyah Dewanto</h1>
-<h3 align="center">A person who enthusiast in Programming, now i specialize in Mobile Development with :flutter: Flutter</h3>
+<h3 align="center">A person who enthusiast in Programming, now i specialize in Mobile Development with Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetarius26&label=Profile%20views&color=0e75b6&style=flat" alt="thetarius26" /> </p>
 
