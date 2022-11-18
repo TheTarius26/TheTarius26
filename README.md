@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rhaka novyansyah dewanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhaka novyansyah dewanto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dewanto-rhaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhaka novyansyah dewanto" height="30" width="40" /></a>
 <a href="https://instagram.com/rhaka.nd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhaka.nd" height="30" width="40" /></a>
 </p>
 
